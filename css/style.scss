@@ -2,7 +2,7 @@ body{
     box-sizing: border-box;
     margin:0;
     overflow-y:scroll;
-    overflow:hidden;
+    
     scrollbar-color: rgba(100,110,110,0.2) rgba(255,240,240,0.5);
 }
 body::-webkit-scrollbar{
@@ -27,6 +27,53 @@ border-radius: 0.5rem;
 .sp{
       padding-right: 2.4rem;
   }
-  .nav-link img{
+.nav-link img{
       width: 20px;
   }
+.lp{
+    margin-top: 12rem;
+    text-align: center;
+}
+h1{
+    font-size: 14vh; 
+}
+h2{
+    margin-top: 2rem;
+}
+#search{
+    margin-top: 5rem;
+    text-align: center;
+    width: 37rem;
+    height: 3.5rem;
+    
+    input{
+        border-color: black;
+        border-width: 2px;
+    }
+    span{
+        background-color: black;
+        color: white;
+        border-color: black;
+        border-width: 2px;
+    }
+}
+#sp_tex{
+    margin-top: 20rem;
+}
+#workspace{
+    background-color: rgb(226, 226, 28);
+    padding-top: 0;
+    padding-bottom: 0;
+}
+#features{
+    margin-top: 12rem;
+}
+.butt{
+    background-color: white;
+}
+.hov:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    .butt:hover{
+        background-color: black;
+    }
+}

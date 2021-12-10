@@ -69,6 +69,25 @@ h2 {
   border-width: 2px;
 }
 
+#searchb {
+  margin-top: 5rem;
+  text-align: center;
+  width: 31rem;
+  height: 3.5rem;
+}
+
+#searchb input {
+  border-color: black;
+  border-width: 2px;
+}
+
+#searchb span {
+  background-color: black;
+  color: white;
+  border-color: black;
+  border-width: 2px;
+}
+
 #sp_tex {
   margin-top: 20rem;
 }
@@ -130,5 +149,14 @@ h2 {
 #lst {
   margin-top: 15rem;
   background-color: #f9f9f9;
+}
+
+#foot {
+  margin-top: 10rem;
+}
+
+#footr {
+  padding: 5rem;
+  padding-left: 10rem;
 }
 /*# sourceMappingURL=style.css.map */

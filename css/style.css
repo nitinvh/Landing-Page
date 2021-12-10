@@ -95,4 +95,40 @@ h2 {
 .hov:hover .butt:hover {
   background-color: black;
 }
+
+.gap {
+  text-align: center;
+  margin-top: 9rem;
+}
+
+.gp {
+  margin-top: 3rem;
+}
+
+#clr {
+  background-color: #b4f1b4;
+}
+
+#pr {
+  margin-top: 6rem;
+  padding: 4rem;
+}
+
+#pr:hover {
+  -webkit-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+          box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.mar {
+  margin-top: 10rem;
+}
+
+.rock {
+  padding-left: 6rem;
+}
+
+#lst {
+  margin-top: 15rem;
+  background-color: #f9f9f9;
+}
 /*# sourceMappingURL=style.css.map */
